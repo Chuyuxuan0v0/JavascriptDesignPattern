@@ -1,4 +1,5 @@
 # JavascriptDesignPattern
+
 这里是手写JS设计模式大合集仓库，里面是我博客 [https://blog.chuyuxuan.top](https://blog.chuyuxuan.top)  手写JS设计模式文章的代码实现，欢迎star
 
 
@@ -25,5 +26,4 @@
 [访问者模式](https://github.com/Chuyuxuan0v0/JavascriptDesignPattern/blob/main/visitor/index.ts) | - |
 [备忘录模式](https://github.com/Chuyuxuan0v0/JavascriptDesignPattern/blob/main/memento/index.ts) | - |
 [责任链模式](https://github.com/Chuyuxuan0v0/JavascriptDesignPattern/blob/main/chain-of-responsibility/index.ts) | - |
-
 
