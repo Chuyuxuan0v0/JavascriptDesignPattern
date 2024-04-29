@@ -10,7 +10,7 @@
 [单例模式](https://github.com/Chuyuxuan0v0/JavascriptDesignPattern/blob/main/singleton/index.ts) | [JS设计模式-单列模式](https://blog.chuyuxuan.top/2024/04/12/JS设计模式-单列模式/) |
 [工厂模式](https://github.com/Chuyuxuan0v0/JavascriptDesignPattern/blob/main/factory/index.ts) | - |
 [策略模式](https://github.com/Chuyuxuan0v0/JavascriptDesignPattern/blob/main/strategy/index.ts) | [JS设计模式-策略模式](https://blog.chuyuxuan.top/2024/04/14/JS设计模式-策略模式/) |
-[代理模式](https://github.com/Chuyuxuan0v0/JavascriptDesignPattern/blob/main/proxy/index.ts) |  [JS设计模式-策略模式](https://blog.chuyuxuan.top/2024/04/30/JS设计模式-代理模式/)  |
+[代理模式](https://github.com/Chuyuxuan0v0/JavascriptDesignPattern/blob/main/proxy/index.ts) |  [JS设计模式-代理模式](https://blog.chuyuxuan.top/2024/04/30/JS设计模式-代理模式/)  |
 [装饰器模式](https://github.com/Chuyuxuan0v0/JavascriptDesignPattern/blob/main/decorator/index.ts) | - |
 [观察者模式](https://github.com/Chuyuxuan0v0/JavascriptDesignPattern/blob/main/observer/index.ts) |  |
 [发布订阅模式](https://github.com/Chuyuxuan0v0/JavascriptDesignPattern/blob/main/publish-subscribe/index.ts) | [JS设计模式-发布订阅者模式](https://blog.chuyuxuan.top/2024/04/03/JS设计模式-发布订阅者模式/) |
